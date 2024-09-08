@@ -16,7 +16,7 @@ To get started, clone this repository and install the necessary dependencies.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/joke-api.git
+    git clone https://github.com/nikitaahire302/My1st_API.git
     cd joke-api
     ```
 
