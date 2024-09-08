@@ -41,7 +41,7 @@ To get started, clone this repository and install the necessary dependencies.
 
 2. **Master Key:**
 
-   The master key used for authorization when creating, updating, or deleting jokes is hardcoded in the code (`4VGP2DN-6EWM4SJ-N6FGRHV-Z3PR3TT`). Change this key in the code if needed.
+   The master key used for authorization when creating, updating, or deleting jokes is hardcoded in the code (`...`). Change this key in the code if needed.
 
 ## Endpoints
 
