@@ -2,6 +2,9 @@
 
 This is a simple REST API for managing jokes. The API is built using Express.js and provides endpoints to retrieve, create, update, and delete jokes. It also includes rate limiting and a master key-based access control for modifying jokes.
 
+For detailed API documentation, please refer to [API Documentation](https://documenter.getpostman.com/view/38177037/2sAXjRWpUx).
+
+
 ## Table of Contents
 
 - [Installation](#installation)
